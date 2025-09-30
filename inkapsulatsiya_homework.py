@@ -98,6 +98,5 @@ talaba2.fanga_yozil(informatika)
 
 print(talaba1.get_info())
 print(talaba2.get_info())
-
 print("Talabalar soni:", Talaba.get_talabalar_soni())
 print("Odamlar soni:", Shaxs.get_odamlar_soni())
