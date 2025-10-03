@@ -14,3 +14,5 @@ pi_float = float(ozgaruvchi[:10])
 with open('pi_million_digits.txt', 'wb') as fayl:
     pickle.dump(pi_float, fayl)
     print('pi son floatga otdi pickle formatda')
+
+
