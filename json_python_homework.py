@@ -1,5 +1,5 @@
 import json
-data = {"Model" : "Malibu", "Rang" : "Qora", "Yil":2020, "Narh":40000}
+data = {"Model" :"Malibu", "Rang" : "Qora", "Yil":2020, "Narh":40000}
 
 json_data = json.dumps(data)
 print("Mashina JSON:", json_data)
